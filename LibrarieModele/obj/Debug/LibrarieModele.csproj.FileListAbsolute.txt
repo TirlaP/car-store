@@ -1,0 +1,6 @@
+C:\Users\Florin\Desktop\PIU\PIU Laboratoare\Lab04_Exemple\EvidentaStudenti\LibrarieModele\bin\Debug\LibrarieClase.dll
+C:\Users\Florin\Desktop\PIU\PIU Laboratoare\Lab04_Exemple\EvidentaStudenti\LibrarieModele\bin\Debug\LibrarieClase.pdb
+C:\Users\Florin\Desktop\PIU\PIU Laboratoare\Lab04_Exemple\EvidentaStudenti\LibrarieModele\obj\Debug\LibrarieModele.csproj.AssemblyReference.cache
+C:\Users\Florin\Desktop\PIU\PIU Laboratoare\Lab04_Exemple\EvidentaStudenti\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+C:\Users\Florin\Desktop\PIU\PIU Laboratoare\Lab04_Exemple\EvidentaStudenti\LibrarieModele\obj\Debug\LibrarieClase.dll
+C:\Users\Florin\Desktop\PIU\PIU Laboratoare\Lab04_Exemple\EvidentaStudenti\LibrarieModele\obj\Debug\LibrarieClase.pdb

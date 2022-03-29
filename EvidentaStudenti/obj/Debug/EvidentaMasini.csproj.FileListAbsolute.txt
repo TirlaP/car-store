@@ -1,0 +1,12 @@
+C:\Users\Florin\Desktop\PIU\PIU Laboratoare\Lab04_Exemple\EvidentaStudenti\EvidentaStudenti\bin\Debug\EvidentaStudenti.exe.config
+C:\Users\Florin\Desktop\PIU\PIU Laboratoare\Lab04_Exemple\EvidentaStudenti\EvidentaStudenti\bin\Debug\EvidentaStudenti.exe
+C:\Users\Florin\Desktop\PIU\PIU Laboratoare\Lab04_Exemple\EvidentaStudenti\EvidentaStudenti\bin\Debug\EvidentaStudenti.pdb
+C:\Users\Florin\Desktop\PIU\PIU Laboratoare\Lab04_Exemple\EvidentaStudenti\EvidentaStudenti\bin\Debug\LibrarieClase.dll
+C:\Users\Florin\Desktop\PIU\PIU Laboratoare\Lab04_Exemple\EvidentaStudenti\EvidentaStudenti\bin\Debug\NivelAccesDate.dll
+C:\Users\Florin\Desktop\PIU\PIU Laboratoare\Lab04_Exemple\EvidentaStudenti\EvidentaStudenti\bin\Debug\LibrarieClase.pdb
+C:\Users\Florin\Desktop\PIU\PIU Laboratoare\Lab04_Exemple\EvidentaStudenti\EvidentaStudenti\bin\Debug\NivelAccesDate.pdb
+C:\Users\Florin\Desktop\PIU\PIU Laboratoare\Lab04_Exemple\EvidentaStudenti\EvidentaStudenti\obj\Debug\EvidentaMasini.csproj.AssemblyReference.cache
+C:\Users\Florin\Desktop\PIU\PIU Laboratoare\Lab04_Exemple\EvidentaStudenti\EvidentaStudenti\obj\Debug\EvidentaMasini.csproj.CoreCompileInputs.cache
+C:\Users\Florin\Desktop\PIU\PIU Laboratoare\Lab04_Exemple\EvidentaStudenti\EvidentaStudenti\obj\Debug\EvidentaMasini.csproj.CopyComplete
+C:\Users\Florin\Desktop\PIU\PIU Laboratoare\Lab04_Exemple\EvidentaStudenti\EvidentaStudenti\obj\Debug\EvidentaStudenti.exe
+C:\Users\Florin\Desktop\PIU\PIU Laboratoare\Lab04_Exemple\EvidentaStudenti\EvidentaStudenti\obj\Debug\EvidentaStudenti.pdb

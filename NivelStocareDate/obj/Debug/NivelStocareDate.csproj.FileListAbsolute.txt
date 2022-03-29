@@ -1,0 +1,9 @@
+C:\Users\Florin\Desktop\PIU\PIU Laboratoare\Lab04_Exemple\EvidentaStudenti\NivelStocareDate\bin\Debug\NivelAccesDate.dll
+C:\Users\Florin\Desktop\PIU\PIU Laboratoare\Lab04_Exemple\EvidentaStudenti\NivelStocareDate\bin\Debug\NivelAccesDate.pdb
+C:\Users\Florin\Desktop\PIU\PIU Laboratoare\Lab04_Exemple\EvidentaStudenti\NivelStocareDate\bin\Debug\LibrarieClase.dll
+C:\Users\Florin\Desktop\PIU\PIU Laboratoare\Lab04_Exemple\EvidentaStudenti\NivelStocareDate\bin\Debug\LibrarieClase.pdb
+C:\Users\Florin\Desktop\PIU\PIU Laboratoare\Lab04_Exemple\EvidentaStudenti\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.AssemblyReference.cache
+C:\Users\Florin\Desktop\PIU\PIU Laboratoare\Lab04_Exemple\EvidentaStudenti\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.CoreCompileInputs.cache
+C:\Users\Florin\Desktop\PIU\PIU Laboratoare\Lab04_Exemple\EvidentaStudenti\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.CopyComplete
+C:\Users\Florin\Desktop\PIU\PIU Laboratoare\Lab04_Exemple\EvidentaStudenti\NivelStocareDate\obj\Debug\NivelAccesDate.dll
+C:\Users\Florin\Desktop\PIU\PIU Laboratoare\Lab04_Exemple\EvidentaStudenti\NivelStocareDate\obj\Debug\NivelAccesDate.pdb
